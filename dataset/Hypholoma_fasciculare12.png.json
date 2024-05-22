@@ -1,0 +1,132 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hypholoma fasciculare",
+      "points": [
+        [
+          1.3664596273291991,
+          39.50310559006212
+        ],
+        [
+          5.714285714285722,
+          38.38509316770187
+        ],
+        [
+          10.6832298136646,
+          35.527950310559014
+        ],
+        [
+          13.913043478260878,
+          34.037267080745345
+        ],
+        [
+          18.260869565217394,
+          30.06211180124224
+        ],
+        [
+          23.85093167701864,
+          29.93788819875777
+        ],
+        [
+          29.937888198757772,
+          24.844720496894414
+        ],
+        [
+          36.0248447204969,
+          18.75776397515528
+        ],
+        [
+          43.602484472049696,
+          19.378881987577643
+        ],
+        [
+          50.93167701863355,
+          14.658385093167707
+        ],
+        [
+          55.27950310559007,
+          14.16149068322982
+        ],
+        [
+          60.99378881987579,
+          15.90062111801243
+        ],
+        [
+          65.46583850931678,
+          19.00621118012423
+        ],
+        [
+          69.93788819875778,
+          28.074534161490686
+        ],
+        [
+          71.30434782608697,
+          32.29813664596274
+        ],
+        [
+          83.35403726708076,
+          30.80745341614907
+        ],
+        [
+          89.93788819875776,
+          36.39751552795032
+        ],
+        [
+          94.78260869565217,
+          40.24844720496895
+        ],
+        [
+          97.88819875776397,
+          42.60869565217392
+        ],
+        [
+          99.0,
+          43.561668145519086
+        ],
+        [
+          99.0,
+          71.30434782608695
+        ],
+        [
+          85.3416149068323,
+          72.9192546583851
+        ],
+        [
+          72.17391304347827,
+          78.13664596273293
+        ],
+        [
+          59.006211180124225,
+          79.87577639751554
+        ],
+        [
+          40.62111801242237,
+          78.26086956521739
+        ],
+        [
+          27.329192546583858,
+          76.27329192546584
+        ],
+        [
+          13.043478260869573,
+          69.93788819875776
+        ],
+        [
+          0.9937888198757854,
+          64.72049689440995
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Hypholoma_fasciculare12.png.jpeg",
+  "imageData": "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",
+  "imageHeight": 100,
+  "imageWidth": 100
+}

@@ -1,2 +1,1 @@
-# EmbeddedIoT
-이 프로젝트는 과거 협업 내용을 기반으로 복원되었습니다. 
+# Detection and information of poisonous mushrooms using machine learning

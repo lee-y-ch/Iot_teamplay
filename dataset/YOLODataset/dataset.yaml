@@ -1,4 +1,4 @@
-train: ./YOLODataset/images/train/
-val: ./YOLODataset/images/val/
+train: ./images/train/
+val: ./images/val/
 nc: 10
 names: ["Hypholoma fasciculare", "Galerina marginata", "Amanita virosa", "Apioperdon pyriforme", "Agaricus arvensis", "Hypholoma lateritium", "Sparassis crispa", "Volvariella volvacea", "Oyster mushroom", "Ramaria formosa"]

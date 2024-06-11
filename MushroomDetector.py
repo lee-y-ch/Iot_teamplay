@@ -9,7 +9,7 @@ import webbrowser
 green_led = LED(17)
 red_led = LED(10)
 
-model = YOLO("./train20/weights/best.pt")
+model = YOLO("./best.pt")
 
 picam2 = Picamera2()
 preview_config = picam2.create_preview_configuration()

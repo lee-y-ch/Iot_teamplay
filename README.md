@@ -1,5 +1,6 @@
 # Detection and information of poisonous mushrooms using machine learning
 임베디드시스템및IOT로의 활용 팀 프로젝트
+YOUTUBE about our team project: 
 
 ## 프로젝트 소개
 '라즈베리파이를 이용한 독버섯 탐지"를 주제로 한 머신러닝 프로젝트. 실시간으로 탐지한 버섯의 독성 유무를 알리고, 해당 버섯에 대한 대략적인 정보를 제공하는 목적을 가지고있다.

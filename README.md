@@ -23,7 +23,7 @@ Yolov8을 이용한 머신러닝과 라즈베리파이가 핵심인 프로젝트
 ## Data set
 - Number of data:
 - kind of labes(kind of mushroom data): poisonous - Hypholoma fasciculare, Ramaria formosa, Galerina marginata, Amanita virosa<br/>
-                                        eible - Hypholoma lateritium, agaricus arvensis, Oyster mushroom, Sparassis crispa, Volvariella volvacea, Apioperdon pyriforme
+                                        eible - Hypholoma lateritium, agaricus arvensis, Oyster mushroom, Sparassis crispa, Volvariella volvacea, Apioperdon pyriforme
 - how to gather data: Using kaggle site - Mushroom Classification Dataset(updated by ZAIN UL ABDIN, https://www.kaggle.com/datasets/zedsden/mushroom-classification-dataset)
 
 ## 아키텍쳐

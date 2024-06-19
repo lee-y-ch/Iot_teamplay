@@ -3,7 +3,8 @@ Team Projects for Embedded Systems and IOT<br/>
 YOUTUBE about our team project: 
 
 ## 프로젝트 소개
-A machine learning project with the theme of "Detecting Poison Mushrooms Using Raspberry Pi". The purpose is to inform the presence or absence of toxicity of mushrooms detected in real time and to provide approximate information on the mushrooms.<br/>
+A machine learning project with the theme of "Detecting Poison Mushrooms Using Raspberry Pi".<br/>
+The purpose is to inform the presence or absence of toxicity of mushrooms detected in real time and to provide approximate information on the mushrooms.<br/>
 The core of project is machine learning using Yolov8 and raspberry pie, which informs the presence or absence of toxicity of mushrooms detected by cameras connected to raspberry pie with LED signals and provides information on the mushrooms on a web page.
 
 ## 개발 기간
@@ -44,6 +45,14 @@ After detecting mushrooms using a camera connected to a raspberry pie designed b
 A total of 10 mushrooms can be detected, four of which are poisonous mushrooms and the remaining six are edible mushrooms. To show the presence or absence of toxicity visually, LEDs are implemented with raspberry pie. If it is a poisonous mushroom, the red LED glows, and if it is an edible mushroom, the green LED glows.
 2. Provide approximate information on mushrooms
 It provides approximate information on detected mushrooms through a web page.
+
+1. Reading the Toxicity of Mushrooms<br/>
+After detecting mushrooms using a camera connected to a raspberry pie designed based on a pre-trained model, it is possible to determine the toxicity of mushrooms based on the learned data.<br/>
+A total of 10 mushrooms can be detected, four of which are poisonous mushrooms and the remaining six are edible mushrooms.<br/>
+To show the presence or absence of toxicity visually, LEDs are implemented with raspberry pie. If it is a poisonous mushroom, the red LED glows, and if it is an edible mushroom, the green LED glows.
+3. Provide approximate information on mushrooms<br/>
+It provides approximate information on detected mushrooms through a web page.<br/>
+
 -> Connect the link to the pre-made web page to the corresponding mushroom and show it to the user.(information based on the appearance and risk of mushrooms.)
 
 

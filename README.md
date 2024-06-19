@@ -31,23 +31,9 @@ By leveraging the YOLOv8 model, the system identifies mushrooms through a connec
 
 1. Reading the Toxicity of Mushrooms
 After detecting mushrooms using a camera connected to a raspberry pie designed based on a pre-trained model, it is possible to determine the toxicity of mushrooms based on the learned data.
-A total of 10 mushrooms can be detected, four of which are poisonous mushrooms and the remaining six are edible mushrooms. To show the presence or absence of toxicity visually, LEDs are implemented with raspberry pie. If it is a poisonous mushroom, the red LED glows, and if it is an edible mushroom, the green LED glows.
-2. Provide approximate information on mushrooms
-It provides approximate information on detected mushrooms through a web page.
 
-1. Reading the Toxicity of Mushrooms<br/>
-After detecting mushrooms using a camera connected to a raspberry pie designed based on a pre-trained model, it is possible to determine the toxicity of mushrooms based on the learned data.<br/>
-A total of 10 mushrooms can be detected, four of which are poisonous mushrooms and the remaining six are edible mushrooms.<br/>
-To show the presence or absence of toxicity visually, LEDs are implemented with raspberry pie. If it is a poisonous mushroom, the red LED glows, and if it is an edible mushroom, the green LED glows.
-3. Provide approximate information on mushrooms<br/>
-It provides approximate information on detected mushrooms through a web page.<br/>
-
--> Connect the link to the pre-made web page to the corresponding mushroom and show it to the user.(information based on the appearance and risk of mushrooms.)
-
-## Architecture map
-=======
 ## Architecture map(Block Diagram)
->>>>>>> 2fb45bb (Update README.md)
+![diagram_iot](https://github.com/SeongbinCho01/EmbeddedIoT/assets/83772963/21921fe4-78f7-46b2-af13-f398c767f78a)
 
 
 ## Key Features

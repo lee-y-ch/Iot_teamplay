@@ -2,34 +2,33 @@
 Team Projects for Embedded Systems and IOT<br/>
 YOUTUBE about our team project: 
 
-## 프로젝트 소개
+## Project Introduction
 A machine learning project with the theme of "Detecting Poison Mushrooms Using Raspberry Pi".<br/>
-The purpose is to inform the presence or absence of toxicity of mushrooms detected in real time and to provide approximate information on the mushrooms.<br/>
-The core of project is machine learning using Yolov8 and raspberry pie, which informs the presence or absence of toxicity of mushrooms detected by cameras connected to raspberry pie with LED signals and provides information on the mushrooms on a web page.
+This project aims to detect poisonous mushrooms in real-time using a Raspberry Pi and machine learning.<br/> 
+By leveraging the YOLOv8 model, the system identifies mushrooms through a connected camera and signals their toxicity status via LED lights. Additionally, detailed information about the detected mushrooms is provided on a web page.
 
-## 개발 기간
+## Development period (contents)
  - 2024.5.5 ~ 2024.6.17
  - Writing Project Plan
- - dataset Collect & Labeling(labelme)
+ - dataset Collecting & Labeling(labelme)
  - Machine Learning Programming with YOLOv8
  - Web page programming
  - Raspberry Pi Programming(Python) & Implementation(LED, Camera ..)
 
-## 개발 환경
-- Language: Python
-- Machine Learning: YOLOv8
-- Development environment(IDE): Raspberry Pi, VScode, SSH, VNC
+## Develoment environment
+- Main Language: Python
+- Machine Learning Framework: YOLOv8
+- Development Tools: Raspberry Pi, VScode, SSH, VNC
 - Labeling tool: Labelme
-- Language of web programming: HTML, CSS
+- Web Programming Languages: HTML, CSS
 
 ## Data set
-- Number of data:
+- source(how to gather data): Using kaggle site - Mushroom Classification Dataset(updated by ZAIN UL ABDIN, https://www.kaggle.com/datasets/zedsden/mushroom-classification-dataset)
+- Number of Data Points:
 - kind of labes(kind of mushroom data):
   - poisonous - Hypholoma fasciculare, Ramaria formosa, Galerina marginata, Amanita virosa<br/>
   - eible - Hypholoma lateritium, agaricus arvensis, Oyster mushroom, Sparassis crispa, Volvariella volvacea, Apioperdon pyriforme
-- how to gather data: Using kaggle site - Mushroom Classification Dataset(updated by ZAIN UL ABDIN, https://www.kaggle.com/datasets/zedsden/mushroom-classification-dataset)
 
-## 아키텍쳐
 
 
 ## 주요 기능
@@ -54,5 +53,19 @@ To show the presence or absence of toxicity visually, LEDs are implemented with 
 It provides approximate information on detected mushrooms through a web page.<br/>
 
 -> Connect the link to the pre-made web page to the corresponding mushroom and show it to the user.(information based on the appearance and risk of mushrooms.)
+
+## Architecture map
+
+
+## Key Features
+1. Reading the Toxicity of Mushrooms<br/>
+- The system uses a camera connected to a Raspberry Pi to detect mushrooms based on a pre-trained YOLOv8 model.
+- It identifies whether the mushrooms are poisonous or edible from a dataset of 10 types (4 poisonous, 6 edible).
+- LEDs indicate toxicity status: red for poisonous, green for edible.
+  
+2. Provide approximate information on mushrooms<br/>
+- Detailed information about the detected mushrooms is displayed on a web page.
+- Users can access specific details about the appearance and risks associated with each type of mushroom through linked web pages.
+
 
 

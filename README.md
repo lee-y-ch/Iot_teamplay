@@ -24,7 +24,7 @@ By leveraging the YOLOv8 model, the system identifies mushrooms through a connec
 
 ## Data set
 - source(how to gather data): Using kaggle site - Mushroom Classification Dataset(updated by ZAIN UL ABDIN, https://www.kaggle.com/datasets/zedsden/mushroom-classification-dataset)
-- Number of Data Points:
+- Number of Data Points: 400 photographic data
 - kind of labes(kind of mushroom data):
   - poisonous - Hypholoma fasciculare, Ramaria formosa, Galerina marginata, Amanita virosa<br/>
   - eible - Hypholoma lateritium, agaricus arvensis, Oyster mushroom, Sparassis crispa, Volvariella volvacea, Apioperdon pyriforme

@@ -1,6 +1,6 @@
 # Detection and information of poisonous mushrooms using machine learning
 Team Projects for Embedded Systems and IOT<br/>
-YOUTUBE about our team project: 
+YOUTUBE about our team project: https://www.youtube.com/watch?v=rqwcCBj9BJE 
 
 ## Project Introduction
 A machine learning project with the theme of "Detecting Poison Mushrooms Using Raspberry Pi".<br/>
